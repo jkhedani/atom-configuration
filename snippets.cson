@@ -12,4 +12,13 @@
 #   'Console log':
 #     'prefix': 'log'
 #     'body': 'console.log $1'
-#
+
+'.source.php':
+  'Comment Multi':
+    'prefix': 'com multi'
+    'body': """
+      /**
+       * $1
+       * $2
+       */
+    """
