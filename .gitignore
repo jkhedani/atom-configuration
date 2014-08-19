@@ -4,4 +4,3 @@ dev
 .npm
 .node-gyp
 .DS_Store
-*.DS_Store
