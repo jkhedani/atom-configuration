@@ -1,0 +1,16 @@
+'Basic Hawaiian':
+  'title': 'Basic Hawaiian'
+  'paths': [
+    '/Users/elusive/Sites/basichawaiian'
+    '/Users/elusive/Sites/basichawaiian/www/wp-content/themes/basichawaiian/'
+  ]
+'Litton Bags':
+  'title': 'Litton Bags'
+  'paths': [
+    '/Users/elusive/Sites/littonbags/www/wp-content/themes/littonbags'
+  ]
+'Documentation':
+  'title': 'Documentation'
+  'paths': [
+    '/Users/elusive/Sites/_documentation'
+  ]
