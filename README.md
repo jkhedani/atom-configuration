@@ -1,6 +1,7 @@
 # Custom Atom configuration & packages
 
-A snapshot of my configuration and packages for the [Atom](https://atom.io/ "A link to the Atom website) text editor.
+A snapshot of my configuration and packages for the
+[Atom](https://atom.io/ "A link to the Atom website) text editor.
 
 ### Usage (OS X instructions)
 
