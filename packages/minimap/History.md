@@ -1,3 +1,18 @@
+2.3.3 / 2014-08-27
+==================
+
+* handle properly the changes in the atom editors classes
+
+2.3.2 / 2014-08-22
+==================
+
+* re-enable the minimap to work with legacy EditorView class
+
+2.3.1 / 2014-08-19
+==================
+
+* fix a bug with removeAtKeyPath method in tests
+
 2.3.0 / 2014-08-19
 ==================
 

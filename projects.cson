@@ -1,7 +1,6 @@
 'Basic Hawaiian':
   'title': 'Basic Hawaiian'
   'paths': [
-    '/Users/elusive/Sites/basichawaiian'
     '/Users/elusive/Sites/basichawaiian/www/wp-content/themes/basichawaiian/'
   ]
 'Litton Bags':
@@ -13,4 +12,24 @@
   'title': 'Documentation'
   'paths': [
     '/Users/elusive/Sites/_documentation'
+  ]
+'Passwords':
+  'title': 'Passwords'
+  'paths': [
+    '/Users/elusive/Documents/passwords'
+  ]
+'iOS':
+  'title': 'iOS'
+  'paths': [
+    '/Users/elusive/iOS'
+  ]
+'To Market':
+  'title': 'To Market'
+  'paths': [
+    '/Users/elusive/Sites/littonbags/www/wp-content/themes/littonbags/lib/ToMarket'
+  ]
+'Soundscape':
+  'title': 'Soundscape'
+  'paths': [
+    '/Users/elusive/Apps/soundscape'
   ]
